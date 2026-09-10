@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Link, NavLink, Route, Routes } from 'react-router-dom';
+import './editorial-fixes.css';
 
 const wa='https://wa.me/5541992635906';
 const shop='https://saiajustavestidos.com.br';
